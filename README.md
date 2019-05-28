@@ -22,5 +22,6 @@ matlab toolboxs:
 
 ### References
 
-[1]https://www.researchgate.net/publication/332606953_Boundary_Correspondence_of_Planar_Domains_for_Isogeometric_Analysis_Based_on_Optimal_Mass_Transport
+[1]Zheng, Y., Pan, M., Chen, F., 2019. Boundary correspondence of planar domains for isogeometric analysis based on optimal mass transport. Computer-Aided Design 114, 28–36. 
+
 [2] M. Pan, F. Chen, W. Tong, Low-rank parameterization of planar domains for isogeometric analysis, Computer Aided Geometric Design 63 (2018) 1–16.
